@@ -2,6 +2,14 @@
 @tailwind components;
 @tailwind utilities;
 
+@font-face {
+  font-family: setting;
+  src: url(../assets/False.ttf);
+}
+
+.Nav-bar{
+  font-family: setting;
+}
 :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
