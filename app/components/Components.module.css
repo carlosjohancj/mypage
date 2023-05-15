@@ -1,0 +1,15 @@
+.Nav{
+    display: flex;
+    padding: 20px;
+}
+.Links{
+    margin: 4px 0px;
+}
+.Div{
+    width: 10%;
+    height: fit-content;
+}
+.img{
+    width: fit-content;
+    height: fit-content;
+}
